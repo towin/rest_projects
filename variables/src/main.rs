@@ -18,8 +18,8 @@ fn main() {
     println!("The value of x is: {x}");
 
 
-    let mut spaces = "           ";
-    spaces = spaces.len();
+    let spaces = "           ";
+    let spaces = spaces.len();
 
     println!("The value of spaces is: {spaces}");
 }
